@@ -73,5 +73,5 @@ npm run preview
 
 - If the app shows a connection error, make sure the backend is still running.
 - Check that the SSE server is listening on port `5000`.
-- If a port is already in use, stop the existing process or change the port in `sse-demo/server.js`.
+- If a port is already in use, stop the existing process or change the port in path `sse-demo/server.js`.
 - If dependencies are missing, rerun `npm install` in the relevant folder.
